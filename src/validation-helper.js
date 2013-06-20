@@ -8,7 +8,7 @@
 
 (function($){
     
-    $.mdValidationHelper = function {
+    $.mdValidationHelper = function () {
 
         var $this = this;
 
